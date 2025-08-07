@@ -5,35 +5,12 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
 			"Name": "PCG",
 			"Enabled": true
 		},
 		{
-			"Name": "PCGExternalDataInterop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGGeometryScriptInterop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGInstancedActorsInterop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGNiagaraInterop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGWaterInterop",
-			"Enabled": true
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": false
 		}
 	]
 }
