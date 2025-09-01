@@ -11,6 +11,10 @@
 		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": false
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
