@@ -18,11 +18,3 @@ To maximize performance, I kept the entire process on the GPU and avoided costly
 Procedurally generating a row of books in Unreal Engine using PCG is fairly straightforward, but handling gaps and calculating lean angles was a fun challenge.
 
 [A Brief Explanation Of PCG Graphs](https://github.com/proceduralit/PCGExperiments/wiki/Book-Row-Stacker)
-
-## Mandala Generator
-
-![](https://raw.githubusercontent.com/proceduralit/PCGExperiments/blob/UE5.6/Wiki/Mandala/Mandala.png)
-
-Two GPU-driven PCG approaches for generating mandala patterns, UE 5.7>.
-
-[A Brief Explanation Of PCG Graphs](https://github.com/proceduralit/PCGExperiments/wiki/MandalaGenerator)
