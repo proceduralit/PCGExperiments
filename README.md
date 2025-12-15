@@ -21,7 +21,7 @@ Procedurally generating a row of books in Unreal Engine using PCG is fairly stra
 
 ## Mandala Generator
 
-![](https://raw.githubusercontent.com/proceduralit/PCGExperiments/main/Wiki/Mandala/Mandala.png)
+![](https://raw.githubusercontent.com/proceduralit/PCGExperiments/blob/UE5.6/Wiki/Mandala/Mandala.png)
 
 Two GPU-driven PCG approaches for generating mandala patterns, UE 5.7>.
 
